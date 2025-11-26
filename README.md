@@ -1,2 +1,1 @@
-# Coursera_Solutions
-Assignment Solutions
+## Learning AI by building — algorithms, experiments, visualizations.
